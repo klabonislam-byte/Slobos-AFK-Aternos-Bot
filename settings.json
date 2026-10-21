@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TokenSmpNEX.aternos.me",
-    "port": 30512,
-    "version": "",
+    "ip": "starsmp-uOO8.aternos.me",
+    "port": 26693,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
